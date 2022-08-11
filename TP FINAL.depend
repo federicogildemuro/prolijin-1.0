@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1656081462 source:c:\users\fede\documents\programaci”n\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
+1656059916 source:c:\users\usuario\dropbox\utn\programaci”n\1- primer cuatri\programaciÛn y laboratorio i\tp final\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
+1656051966 source:d:\datos daniel\desktop\utn\programaci”n\2- primer cuatri\programaciÛn y laboratorio i\tp final\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
+1656325874 source:c:\users\fede\desktop\prolijin 1.1\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+
